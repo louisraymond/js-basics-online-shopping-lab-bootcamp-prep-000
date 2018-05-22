@@ -14,7 +14,7 @@ function addToCart(item){
   var newObj= {item:Math.floor((Math.random())*100)};
   Cartlist.push(newObj);
   return Cartlist ;
-  }
+  
   
  // write your code here
 }
